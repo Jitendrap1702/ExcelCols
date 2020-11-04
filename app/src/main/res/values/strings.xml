@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExcelCols</string>
+    <string name="enter_your_title">Enter Your Title</string>
+    <string name="excel_sheet_number">Excel sheet number</string>
+    <string name="get_title">Get Title</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="get_number">Get Number</string>
+    <string name="ms_excel">MS EXCEL</string>
+    <string name="the_streamliners_club">The StreamLiners Club</string>
+</resources>
